@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-<img src="./client/src/assets/screen.png" width="600" />
+<img src="./client/src/assets/screen.png" width="800" />
 </div>
