@@ -17,10 +17,10 @@ const HomePage = () => {
           Indulge in the flavors you crave
         </h1>
         <span className="text-xl text-gray-600">
-          Order now for a delicious takeaway delivered right to your door!
+          Order delicious takeout now and get it delivered right to your door!
         </span>
         <SearchBar
-          placeHolder="Search by Town or City"
+          placeHolder="Search in your city"
           onSubmit={handleSearchSubmit}
         />
       </div>
