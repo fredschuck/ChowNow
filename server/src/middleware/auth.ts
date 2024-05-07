@@ -3,7 +3,7 @@ import { Request, Response, NextFunction } from "express";
 import jwt from "jsonwebtoken";
 import User from "../models/user";
 
-// If you want to add custome properties to the Express Request object, you need to extend the Express namespace
+// If you want to add custom properties to the Express Request object, you need to extend the Express namespace
 declare global {
   namespace Express {
     interface Request {
